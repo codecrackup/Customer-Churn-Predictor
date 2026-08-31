@@ -107,7 +107,7 @@ if predict:
 
         else: st.success('Customer is not likely to churn...')
 
-        st.metric('Probabiliry to Churn:', f'{churn_probabilty:.1f}%')
+        st.metric('Probability to Churn:', f'{churn_probabilty:.1f}%')
 
 
 
