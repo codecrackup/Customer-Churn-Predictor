@@ -8,20 +8,6 @@ This project was built to practice the complete ML workflow, from preprocessing 
 
 > This is intentionally a simple project and serves as a starting point for practicing end-to-end Machine Learning.
 
-## 🧠 What I Practiced
-
-- EDA
-- Feature Engineering
-- One-Hot Encoding
-- Power Transformation
-- ColumnTransformer
-- ML Pipelines
-- Logistic Regression
-- Cross-Validation
-- Classification Metrics
-- Probability Prediction
-- Model Deployment with Streamlit
-
 ## 🤖 Model
 
 **Logistic Regression**
