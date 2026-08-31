@@ -1,5 +1,7 @@
 # 📡 Telco Customer Churn Predictor
 
+🚀 **[Live Demo →](https://customer-churn-predictor-08.streamlit.app/)**
+
 A basic **Machine Learning classification project** that predicts whether a telecom customer is likely to churn.
 
 This project was built to practice the complete ML workflow, from preprocessing and model training to evaluation and deployment.
